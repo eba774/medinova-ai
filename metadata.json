@@ -1,0 +1,6 @@
+{
+  "name": "MediNova AI",
+  "description": "Modern AI-powered healthcare platform with smart symptom checking, doctor appointments, video consultations, lab report analysis, medicine reminders, health statistics, and emergency SOS.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
