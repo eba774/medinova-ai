@@ -232,9 +232,6 @@ GEMINI_API_KEY=YOUR_API_KEY
 Run the Project
 npm run dev
 
-Open:
-
-http://localhost:5173
 📈 Future Improvements
 User authentication
 Appointment booking
