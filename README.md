@@ -192,16 +192,19 @@ Add at least three screenshots here.
 
 🏠 Home Page  
 
-
+[Home Page](screenshots/homepage.png)
 
 
 🤖 AI Healthcare Assistant
 
-(Insert AI Chat Screenshot)
+[AI Assistant](screenshots/ai-assistant.png)
+[AI Assistant](screenshots/ai-assistant-1.png)
+
 
 ❤️ Features / Healthcare Dashboard
 
-(Insert Features Screenshot)
+[Features](screenshots/feature-1.png)
+[Features](screenshots/feature-2.png)
 
 🚀 Deployment
 
